@@ -1,0 +1,4 @@
+1. defining a variable
+2. using a variable
+3. types of variables
+4. arrays and objects
