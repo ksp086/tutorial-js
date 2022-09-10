@@ -1,0 +1,6 @@
+1. console log
+2. dom api
+3. adding element
+4. alert
+5. prompt
+6. confirm
