@@ -1,0 +1,8 @@
+1. null
+2. testing for NaN using isNaN
+3. Number.isNaN()
+4. undefined and null
+5. infinity and -infinity
+6. number constants
+7. operations that return NaN
+8. math library functions that return NaN
