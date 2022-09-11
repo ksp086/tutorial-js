@@ -1,0 +1,15 @@
+1
+opening console
+- ctrl + shift + i
+- F12
+- ESC
+
+5
+printing to a browser's debugging console
+- console.info
+- console.warn
+- console.error
+- console.timeStamp
+    - outputs current time and specified string
+- console.trace
+    - outputs current stack trace
