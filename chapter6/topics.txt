@@ -1,0 +1,12 @@
+1. basic info and string concatenation
+2. reverse string
+3. comparing strings lexicographically
+4. access character at index
+5. escaping quotes
+6. trim whitespace
+7. substring with slice
+8. string find and replace functions
+9. finding the index of a substring inside a string
+10. upper case
+11. lower case
+12. repeat a string
